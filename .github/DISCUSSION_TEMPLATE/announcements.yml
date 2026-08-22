@@ -3,7 +3,7 @@ labels: [announcements]
 body:
   - type: markdown
     attributes:
-      value: Visit-Counter announcements are posted by project maintainers.
+      value: KERO organization announcements are posted by project maintainers.
   - type: textarea
     id: announcement
     attributes:
